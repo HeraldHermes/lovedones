@@ -1,0 +1,44 @@
+.top {
+  background-color: #1b1919;
+
+}
+
+.video {
+  background-color: #1b1919
+}
+
+body {
+  margin-top: 0;
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  padding: 20px;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid white;
+  margin: -17px;
+  padding: 0;
+}
+
+h1 {
+  color: #e3e3e3;
+  margin-top: 0;
+  font-family: Pirata One;
+  font-size: 100px;
+}
+
+h2 {
+  color: #e3e3e3;
+  font-family: playfair display;
+}
+
+p {
+  color: #e3e3e3;
+  font-family: playfair display;
+}
